@@ -49,6 +49,12 @@ The primary objectives of this research project are:
 
 Gold serves as a critical asset for portfolio diversification and hedging strategies. Accurate price predictions can inform investment decisions and risk management practices.
 
+### Gold Price Historical Overview
+
+![Gold Price Overview](images/visualizations/gold_price_overview.png)
+
+*Figure 1: Historical gold futures (GC=F) prices from 2013 to present, showing major market trends and events.*
+
 ---
 
 ## Dataset
@@ -78,6 +84,16 @@ The dataset includes the following raw attributes:
 - **Missing Values**: Handled via forward-fill and backward-fill imputation
 - **Outliers**: Preserved as they represent genuine market events (e.g., COVID-19, financial crises)
 - **Temporal Integrity**: Maintained chronological order for time series analysis
+
+### Data Distribution and Patterns
+
+![Gold Price Distribution](images/visualizations/gold_price_distribution.png)
+
+*Figure 2: Statistical distribution of gold prices showing frequency, trends, and key statistical measures.*
+
+![Gold Price Seasonality](images/visualizations/gold_price_seasonality.png)
+
+*Figure 3: Seasonal patterns and cyclical trends in gold price movements across different time periods.*
 
 ---
 
@@ -117,6 +133,12 @@ Engineered 18 technical indicators to capture market dynamics:
 
 #### Lag Features
 - **Historical Prices**: Previous 1, 2, 3, 5, and 7 days' closing prices
+
+### Technical Indicators Visualization
+
+![Technical Indicators](images/visualizations/technical_indicators.png)
+
+*Figure 4: Comprehensive technical analysis showing moving averages, Bollinger Bands, RSI, and MACD indicators overlaid on price data.*
 
 ### 3. Data Normalization
 
@@ -204,14 +226,19 @@ Output Layer (1 unit, Linear activation)
 
 ### Visualizations
 
-The project generates comprehensive visualizations including:
+The project generates comprehensive visualizations including prediction comparisons, error analysis, and training metrics.
 
-- Historical price trends with annotated events (e.g., COVID-19)
-- Technical indicator overlays (moving averages, Bollinger Bands, RSI, MACD)
-- Prediction vs. actual price comparisons
-- Error distribution analysis
-- Training history (loss and MAE curves)
-- 7-day future price forecasts
+#### Model Training Performance
+
+![Training History](images/visualizations/training_history.png)
+
+*Figure 5: Training and validation loss curves showing model convergence and learning progression over epochs.*
+
+#### Prediction Analysis
+
+![Predictions Analysis](images/visualizations/predictions_analysis.png)
+
+*Figure 6: Comparison of predicted vs. actual gold prices on test data, demonstrating model accuracy and trend-following capability.*
 
 All visualizations are saved in `images/visualizations/`.
 
