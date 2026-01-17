@@ -51,7 +51,7 @@ Gold serves as a critical asset for portfolio diversification and hedging strate
 
 ### Gold Price Historical Overview
 
-![Gold Price Overview](images/visualizations/gold_price_overview.png)
+![Gold Price Overview](https://raw.githubusercontent.com/VikashPR/AI-For-Gold-Trend-Analysis/main/images/visualizations/gold_price_overview.png)
 
 *Figure 1: Historical gold futures (GC=F) prices from 2013 to present, showing major market trends and events.*
 
@@ -87,11 +87,11 @@ The dataset includes the following raw attributes:
 
 ### Data Distribution and Patterns
 
-![Gold Price Distribution](images/visualizations/gold_price_distribution.png)
+![Gold Price Distribution](https://raw.githubusercontent.com/VikashPR/AI-For-Gold-Trend-Analysis/main/images/visualizations/gold_price_distribution.png)
 
 *Figure 2: Statistical distribution of gold prices showing frequency, trends, and key statistical measures.*
 
-![Gold Price Seasonality](images/visualizations/gold_price_seasonality.png)
+![Gold Price Seasonality](https://raw.githubusercontent.com/VikashPR/AI-For-Gold-Trend-Analysis/main/images/visualizations/gold_price_seasonality.png)
 
 *Figure 3: Seasonal patterns and cyclical trends in gold price movements across different time periods.*
 
@@ -136,7 +136,7 @@ Engineered 18 technical indicators to capture market dynamics:
 
 ### Technical Indicators Visualization
 
-![Technical Indicators](images/visualizations/technical_indicators.png)
+![Technical Indicators](https://raw.githubusercontent.com/VikashPR/AI-For-Gold-Trend-Analysis/main/images/visualizations/technical_indicators.png)
 
 *Figure 4: Comprehensive technical analysis showing moving averages, Bollinger Bands, RSI, and MACD indicators overlaid on price data.*
 
@@ -230,13 +230,13 @@ The project generates comprehensive visualizations including prediction comparis
 
 #### Model Training Performance
 
-![Training History](images/visualizations/training_history.png)
+![Training History](https://raw.githubusercontent.com/VikashPR/AI-For-Gold-Trend-Analysis/main/images/visualizations/training_history.png)
 
 *Figure 5: Training and validation loss curves showing model convergence and learning progression over epochs.*
 
 #### Prediction Analysis
 
-![Predictions Analysis](images/visualizations/predictions_analysis.png)
+![Predictions Analysis](https://raw.githubusercontent.com/VikashPR/AI-For-Gold-Trend-Analysis/main/images/visualizations/predictions_analysis.png)
 
 *Figure 6: Comparison of predicted vs. actual gold prices on test data, demonstrating model accuracy and trend-following capability.*
 
