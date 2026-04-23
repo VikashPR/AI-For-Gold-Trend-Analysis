@@ -456,7 +456,6 @@ pip install -r requirements.txt
 
 7. Gold Futures Historical Data (GC=F): Yahoo Finance
 
-
 ---
 
 ## License
