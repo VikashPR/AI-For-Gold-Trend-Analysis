@@ -4,7 +4,7 @@
 
 ## Abstract
 
-This project presents a deep learning approach to gold price prediction using Long Short-Term Memory (LSTM) neural networks. By leveraging historical price data and technical indicators, the model achieves predictive capabilities for gold futures (GC=F) prices. The system incorporates 18 engineered features including moving averages, momentum indicators, and volatility measures to capture complex temporal patterns in financial time series data.
+This project presents a deep learning approach to gold price prediction using Long Short-Term Memory (LSTM) neural networks. By leveraging historical price data and technical indicators, the model achieves predictive capabilities for gold futures (GC=F - COMEX) prices. The system incorporates 18 engineered features including moving averages, momentum indicators, and volatility measures to capture complex temporal patterns in financial time series data.
 
 ---
 
@@ -55,7 +55,7 @@ Gold serves as a critical asset for portfolio diversification and hedging strate
 
 ![Gold Price Overview](https://raw.githubusercontent.com/VikashPR/AI-For-Gold-Trend-Analysis/main/images/visualizations/gold_price_overview.png)
 
-*Figure 1: Historical gold futures (GC=F) prices from 2013 to present, showing major market trends and events.*
+*Figure 1: Historical gold futures (GC=F - COMEX) prices from 2013 to present, showing major market trends and events.*
 
 ---
 
