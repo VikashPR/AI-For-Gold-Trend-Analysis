@@ -1,5 +1,7 @@
 # Gold Market Trend Analysis Using LSTM Neural Networks
 
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+
 ## Abstract
 
 This project presents a deep learning approach to gold price prediction using Long Short-Term Memory (LSTM) neural networks. By leveraging historical price data and technical indicators, the model achieves predictive capabilities for gold futures (GC=F) prices. The system incorporates 18 engineered features including moving averages, momentum indicators, and volatility measures to capture complex temporal patterns in financial time series data.
