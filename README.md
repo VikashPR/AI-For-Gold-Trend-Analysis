@@ -28,6 +28,8 @@ This project presents a deep learning approach to gold price prediction using Lo
 
 ## Introduction
 
+*A comprehensive guide to predicting gold prices using deep learning.*
+
 Gold price prediction remains a challenging task in financial forecasting due to the complex interplay of macroeconomic factors, geopolitical events, and market sentiment. This research applies deep learning techniques, specifically LSTM networks, to model and predict gold price movements using historical price data and technical indicators.
 
 ### Key Features
