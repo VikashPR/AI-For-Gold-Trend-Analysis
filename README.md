@@ -67,6 +67,7 @@ Gold serves as a critical asset for portfolio diversification and hedging strate
 
 - **Ticker Symbol**: GC=F (Gold Futures)
 - **Provider**: Yahoo Finance API via `yfinance` library
+- **Currency**: USD
 - **Date Range**: January 1, 2013 – Present
 - **Frequency**: Daily trading data
 - **Total Records**: 3,000+ trading days
