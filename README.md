@@ -273,7 +273,7 @@ All visualizations are saved in `images/visualizations/`.
 
 3. **Install dependencies**:
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements.txt --upgrade
    ```
 
 4. **Verify installation**:
@@ -392,7 +392,7 @@ joblib>=1.3.0
 
 Install all dependencies:
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt --upgrade
 ```
 
 ### System Requirements
