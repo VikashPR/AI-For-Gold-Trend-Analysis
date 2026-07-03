@@ -433,7 +433,10 @@ pip install -r requirements.txt --upgrade
    - Test various LSTM unit configurations
 
 6. **Risk Analysis**
-   - Implement confidence intervals for predictions
+   - Implement confidence intervals
+
+7. **Cloud Deployment**
+   - Deploy model using AWS SageMaker or GCP Vertex AI for predictions
    - Develop risk-adjusted trading strategies
    - Create portfolio optimization framework
 
