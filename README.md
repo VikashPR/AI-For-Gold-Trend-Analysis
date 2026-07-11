@@ -498,7 +498,7 @@ If you use this project in your research, please cite:
   title = {Gold Market Trend Analysis Using LSTM Neural Networks},
   year = {2025},
   publisher = {GitHub},
-  howpublished = {\url{https://github.com/yourusername/AI-For-Gold-Trend-Analysis}}
+  howpublished = {\url{https://github.com/VikashPR/AI-For-Gold-Trend-Analysis}}
 }
 ```
 
