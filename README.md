@@ -253,7 +253,7 @@ All visualizations are saved in `images/visualizations/`.
 
 ### Prerequisites
 
-- Python 3.10 or higher
+- Python 3.10 to 3.12 (recommended for optimal compatibility)
 - pip package manager
 - Jupyter Notebook or JupyterLab (optional, for notebook execution)
 
