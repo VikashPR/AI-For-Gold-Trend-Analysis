@@ -148,6 +148,7 @@ Engineered 18 technical indicators to capture market dynamics:
 ### 3. Data Normalization
 
 - **Scaler**: MinMaxScaler (range: 0–1)
+- **Importance**: Data normalization is critical for gradient convergence in LSTMs
 - **Rationale**: Neural networks perform optimally with normalized inputs
 - **Separate Scaling**: Independent scalers for features and target variable for proper inverse transformation
 
