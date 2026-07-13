@@ -70,7 +70,7 @@ Gold serves as a critical asset for portfolio diversification and hedging strate
 - **Currency**: USD
 - **Date Range**: January 1, 2013 – Present
 - **Frequency**: Daily trading data
-- **Total Records**: 3,000+ trading days
+- **Total Records**: 3,200+ trading days
 
 ### Features
 
