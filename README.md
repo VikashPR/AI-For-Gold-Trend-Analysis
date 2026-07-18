@@ -318,7 +318,7 @@ import joblib
 # Load the trained model
 model = tf.keras.models.load_model('models/lstm_gold_model.keras')
 
-# Load scalerss
+# Load scalers
 scaler = joblib.load('models/feature_scaler.pkl')
 close_scaler = joblib.load('models/close_scaler.pkl')
 feature_info = joblib.load('models/feature_info.pkl')
