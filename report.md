@@ -9,6 +9,8 @@
 
 ---
 
+**Maintenance note (November 3, 2026):** Reviewed the project workflow and synchronized the supporting model-tuning documentation.
+
 ## 1. Problem Statement
 
 Gold has always been a safe investment during uncertain times - economic downturns, political instability, or high inflation. However, predicting its price is incredibly tricky because so many things affect it at once. Interest rates, inflation numbers, geopolitical tensions, currency fluctuations, and even investor psychology all play a role. 
